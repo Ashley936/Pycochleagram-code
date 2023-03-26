@@ -1,0 +1,16 @@
+AUTHORS
+LICENSE
+README.md
+setup.py
+pycochleagram/__init__.py
+pycochleagram/cochleagram.py
+pycochleagram/demo.py
+pycochleagram/erbfilter.py
+pycochleagram/subband.py
+pycochleagram/utils.py
+pycochleagram.egg-info/PKG-INFO
+pycochleagram.egg-info/SOURCES.txt
+pycochleagram.egg-info/dependency_links.txt
+pycochleagram.egg-info/not-zip-safe
+pycochleagram.egg-info/requires.txt
+pycochleagram.egg-info/top_level.txt

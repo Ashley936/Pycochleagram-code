@@ -1,0 +1,10 @@
+.DS_Store
+*.wav
+*.sublime*
+**/.cache
+*.pyc
+**/__pycache__
+**/.ipynb_checkpoints
+**/build
+**/sandbox
+sftp-config.json

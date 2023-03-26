@@ -1,0 +1,6 @@
+
+[complete]
+scipy>=1.8.0
+
+[pycochleagram]
+scipy>=1.8.0
